@@ -1,2 +1,3 @@
 Added this file to check squash functionality
 second line
+third line
